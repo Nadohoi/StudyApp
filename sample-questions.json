@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "correctIndex": 2,
+      "explanation": "Tokyo is the capital and most populous city of Japan.",
+      "topic": "Geography"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+      "correctIndex": 1,
+      "explanation": "Hydrogen is the first element on the periodic table.",
+      "topic": "Science"
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": ["15", "25", "30", "35"],
+      "correctIndex": 2,
+      "explanation": "0.15 x 200 = 30.",
+      "topic": "Math"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Van Gogh"],
+      "correctIndex": 1,
+      "explanation": "Leonardo da Vinci painted the Mona Lisa in the early 1500s.",
+      "topic": "Art"
+    }
+  ]
+}
